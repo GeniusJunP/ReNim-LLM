@@ -1,6 +1,6 @@
 # ReNim-LLM-Helper
 
-[ReNim Node](https://github.com/anasrar/ReNim)用のLLMアシスタントツールです。既存モデル同士のボーンマッピングを半自動化します
+[ReNim Node](https://github.com/anasrar/ReNim)用のLLMアシスタントツールです。既存モデル同士のボーンマッピングを半自動化します. 
 Vibeで書いたコードです（GitHub Copilot）なぜかテキストボックスが実装できないので、クリップボードを読みます。Blenderのアドオン周りよくわからない
 
 ## インストール
